@@ -5,7 +5,7 @@ body {
   text-align: center;
   color: #333;
   margin: 0;
-} 
+}
 
 #main {
   margin: 30px 8px;
@@ -23,7 +23,7 @@ h1 {
   width: 100%;
   margin: 0 auto 0 auto;
   height: 720px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 figcaption {
@@ -37,11 +37,10 @@ figcaption {
   font-size: 16px;
   display: flex;
   flex-direction: column;
-  padding:  0px 30px;;
+  padding:  0 30px;
 }
 
 ul {
   text-align: left;
   line-height: 1.6;
-  text-align: justify;
 }
